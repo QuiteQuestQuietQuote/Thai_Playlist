@@ -28,5 +28,8 @@ type=playlist
 name=Example 3: playlist
 URL=examples/example 3.plx
 #
-
-
+type=playlist
+name=Navi-x_Playlists
+thumb=default 
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_Playlist/master/Navi-x_Playlists.plx
+#
