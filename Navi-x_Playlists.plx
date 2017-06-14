@@ -11,7 +11,7 @@ icon=http://media.navixtreme.com/images/icons/2downarrow.png
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_Playlist/master/Navi-x_Playlists.plx?action=sortsel&cur=ord
 
 type=playlist
-name=Thai_TV_Movies_Series_Siam_kodi_navi_x
+name=Thai4Free_Free2Thais
 thumb=http://i.dailymail.co.uk/i/pix/2016/11/18/14/3A77935E00000578-3949706-Making_a_splash_The_fish_with_its_blue_red_and_white_horizontal_-m-13_1479477984350.jpg
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/Thai_TV_Movies_Series_Siam_kodi_navi_x.plx
 player=default
