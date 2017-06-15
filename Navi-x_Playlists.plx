@@ -38,7 +38,7 @@ URL=
 player=default
 rating=-1.00
 
-type=playlist
+type=script
 name=
 thumb=
 URL=
