@@ -85,7 +85,7 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 
 
 #EXTINF:-1,CHANNEL 3
-http://111.223.37.196:1935/thaitv3_HD/thaitv3_HD_1/chunklist_w1332595232.m3u8
+http://ch3-33-web.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_client_ip=1&x_ark_expires=1498587547&x_ark_path_prefix=/live/&x_ark_signature=Hu3yQpP0DWLfiJOBErjd3g
 
 
 
@@ -151,7 +151,7 @@ http://stream.rs.co.th/ch8-hi/index.m3u8
 
 
 #EXTINF:-1,CH 3 SD
-http://111.223.37.196:1935/thaitv3_SD/thaitv3_SD_2/playlist.m3u8
+http://ch3-33-web.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_client_ip=1&x_ark_expires=1498587547&x_ark_path_prefix=/live/&x_ark_signature=Hu3yQpP0DWLfiJOBErjd3g
 
 
 
