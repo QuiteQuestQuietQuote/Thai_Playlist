@@ -13,7 +13,7 @@ https://youtu.be/Ga3maNZ0x0w
 
 
 #EXTINF:-1,DW TV_youtube
-https://youtu.be/gNosnzCaS4I
+https://youtu.be/XV9mc9sOmDs
 
 
 
@@ -81,7 +81,8 @@ http://rt-eng-live.hls.adaptive.level3.net/rt/eng/index1600.m3u8
 #EXTINF:-1,ARIANG HD
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
-
+#EXTINF:-1,xxxxxxxxxxxxxxxxxxxx
+http://203.162.235.41:17819
 
 
 #EXTINF:-1,CHANNEL 3
@@ -273,7 +274,8 @@ http://dgimedia.ddns.net:9898/live/nanouk2018/xpkhtdknhg/64.m3u8
 #EXTINF:-1,Playboy Korean (+18)
 http://123.108.164.110/etv1sb/phd10497/playlist.m3u8
 
-
+#EXTINF:-1,xxxxxxxxxxxxxxxxxxxx
+http://203.162.235.41:17819
 
 #EXTINF:0,  IPTV MIX TV Channels Playlist
 http://
@@ -529,7 +531,8 @@ http://183.88.212.205:8010/play/a00h
 
 
 
-
+#EXTINF:-1,xxxxxxxxxxxxxxxxxxxx
+http://203.162.235.41:17819
 
 #EXTINF:-1,CINEMA WORLD
 http://live.gslb.letv.com/gslb?stream_id=pay_cinema_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
@@ -579,7 +582,8 @@ http://183.88.212.205:8010/play/a00u
 
 
 
-
+#EXTINF:-1,xxxxxxxxxxxxxxxxxxxx
+http://203.162.235.41:17819
 
 
 
@@ -636,7 +640,8 @@ http://livetv.khaozap.com/money_channel_480p.stream/playlist.m3u8
 
 
 
-
+#EXTINF:-1,xxxxxxxxxxxxxxxxxxxx
+http://203.162.235.41:17819
 
 
 
@@ -884,6 +889,8 @@ http://livetv.khaozap.com/mcot1_480p.stream/playlist.m3u8
 
 
 
+#EXTINF:-1,xxxxxxxxxxxxxxxxxxxx
+http://203.162.235.41:17819
 
 
 
@@ -892,6 +899,576 @@ http://livetv.khaozap.com/mcot1_480p.stream/playlist.m3u8
 
 
 
+#EXTINF:-1,3 hd
+http://iptvthailand.dyndns.biz/dode/ch3hd.stream/playlist.m3u8
+#EXTINF:-1,5 hd
+http://iptvthailand.dyndns.biz/dode/ch5hd.stream/playlist.m3u8
+#EXTINF:-1,7hd
+http://iptvthailand.dyndns.biz/dode/ch7hd.stream/playlist.m3u8
+#EXTINF:-1,mcot hd
+http://iptvthailand.dyndns.biz/dode/mcothd.stream/playlist.m3u8
+#EXTINF:-1,nbt
+http://iptvthailand.dyndns.biz/dode/nbt.stream/playlist.m3u8
+#EXTINF:-1,tpbs hd
+http://iptvthailand.dyndns.biz/dode/thaipbshd.stream/playlist.m3u8
+#EXTINF:-1,tnn24
+http://iptvthailand.dyndns.biz/dode/tnn24.stream/playlist.m3u8
+#EXTINF:-1,3family
+http://iptvthailand.dyndns.biz/dode/ch3family.stream/playlist.m3u8
+#EXTINF:-1,mcot family
+http://iptvthailand.dyndns.biz/dode/mcotfamily.stream/playlist.m3u8
+#EXTINF:-1,new tv
+http://iptvthailand.dyndns.biz/dode/newtv.stream/playlist.m3u8
+#EXTINF:-1,spring news
+http://iptvthailand.dyndns.biz/dode/springnews.stream/playlist.m3u8
+#EXTINF:-1,bright tv
+http://iptvthailand.dyndns.biz/dode/brighttv.stream/playlist.m3u8
+#EXTINF:-1,voice tv
+http://iptvthailand.dyndns.biz/dode/voicetv.stream/playlist.m3u8
+#EXTINF:-1,nation tv
+http://iptvthailand.dyndns.biz/dode/nationtv.stream/playlist.m3u8
+#EXTINF:-1,workpointhd
+http://iptvthailand.dyndns.biz/dode/workpointhd.stream/playlist.m3u8
+#EXTINF:-1,true4u
+http://iptvthailand.dyndns.biz/dode/true4u.stream/playlist.m3u8
+#EXTINF:-1,now26
+http://iptvthailand.dyndns.biz/dode/now.stream/playlist.m3u8
+#EXTINF:-1,ch8
+http://iptvthailand.dyndns.biz/dode/ch8.stream/playlist.m3u8
+#EXTINF:-1,ch3 sd
+http://iptvthailand.dyndns.biz/dode/ch3sd.stream/playlist.m3u8
+#EXTINF:-1,mono29hd
+http://iptvthailand.dyndns.biz/dode/mono29hd.stream/playlist.m3u8
+#EXTINF:-1,one hd
+http://iptvthailand.dyndns.biz/dode/onehd.stream/playlist.m3u8
+#EXTINF:-1,amarin hd
+http://iptvthailand.dyndns.biz/dode/amarinhd.stream/playlist.m3u8
+#EXTINF:-1,thairath hd
+http://iptvthailand.dyndns.biz/dode/thairathhd.stream/playlist.m3u8
+#EXTINF:-1,pptv hd
+http://iptvthailand.dyndns.biz/dode/pptv.stream/playlist.m3u8
+
+
+
+#EXTINF:-1,xxxxxxxxxxxxxxxxxxxx
+http://203.162.235.41:17819
+
+
+
+
+#EXTINF:-1,babytv
+http://iptvthailand.dyndns.biz/dode/babytv.stream/playlist.m3u8
+#EXTINF:-1,boomerang
+http://iptvthailand.dyndns.biz/dode/boomerang.stream/playlist.m3u8
+#EXTINF:-1,toonami
+http://iptvthailand.dyndns.biz/dode/toonami.stream/playlist.m3u8
+#EXTINF:-1,CN
+http://iptvthailand.dyndns.biz/dode/cartoonnetwork.stream/playlist.m3u8
+#EXTINF:-1,Cartoon disney
+http://iptvthailand.dyndns.biz/dode/disney.stream/playlist.m3u8
+#EXTINF:-1,Disney XD
+http://iptvthailand.dyndns.biz/dode/disneyxd.stream/playlist.m3u8
+
+
+#EXTINF:-1,xxxxxxxxxxxxxxxxxxxx
+http://203.162.235.41:17819
+
+
+#EXTINF:-1,Food network
+http://iptvthailand.dyndns.biz/dode/food.stream/playlist.m3u8
+#EXTINF:-1,lifetime
+http://iptvthailand.dyndns.biz/dode/lifetime.stream/playlist.m3u8
+#EXTINF:-1,animalshow
+http://iptvthailand.dyndns.biz/dode/animalshow.stream/playlist.m3u8
+#EXTINF:-1,mysci
+http://iptvthailand.dyndns.biz/dode/mysci.stream/playlist.m3u8
+#EXTINF:-1,samrujlok
+http://iptvthailand.dyndns.biz/dode/samrujlok.stream/playlist.m3u8
+#EXTINF:-1,discoveryworld
+http://iptvthailand.dyndns.biz/dode/discoveryworld.stream/playlist.m3u8
+#EXTINF:-1,discovery channel
+http://iptvthailand.dyndns.biz/dode/discovery.stream/playlist.m3u8
+#EXTINF:-1,national_geographic_hd
+http://iptvthailand.dyndns.biz/dode/natgeohd.stream/playlist.m3u8
+#EXTINF:-1,national_geographic_wild
+http://iptvthailand.dyndns.biz/dode/natwild.stream/playlist.m3u8
+#EXTINF:-1,national_geographic_people
+http://iptvthailand.dyndns.biz/dode/natpeople.stream/playlist.m3u8
+#EXTINF:-1,true_explore_life
+http://iptvthailand.dyndns.biz/dode/explore1.stream/playlist.m3u8
+#EXTINF:-1,true_explore_wild
+http://iptvthailand.dyndns.biz/dode/explore2.stream/playlist.m3u8
+#EXTINF:-1,true_explore_sci
+http://iptvthailand.dyndns.biz/dode/explore3.stream/playlist.m3u8
+#EXTINF:-1,nhkworld
+http://iptvthailand.dyndns.biz/dode/nhkworld.stream/playlist.m3u8
+#EXTINF:-1,france24
+http://iptvthailand.dyndns.biz/dode/france24.stream/playlist.m3u8
+#EXTINF:-1,euronews
+http://iptvthailand.dyndns.biz/dode/euronews.stream/playlist.m3u8
+
+
+#EXTINF:-1,xxxxxxxxxxxxxxxxxxxx
+http://203.162.235.41:17819
+
+
+#EXTINF:-1,hbo hd
+http://iptvthailand.dyndns.biz/dode/hbohd.stream/playlist.m3u8
+#EXTINF:-1,h2 hd
+http://iptvthailand.dyndns.biz/dode/h2hd.stream/playlist.m3u8
+#EXTINF:-1,history hd
+http://iptvthailand.dyndns.biz/dode/historyhd.stream/playlist.m3u8
+#EXTINF:-1,hbohits
+http://iptvthailand.dyndns.biz/dode/hbohits.stream/playlist.m3u8
+#EXTINF:-1,hbo signature
+http://iptvthailand.dyndns.biz/dode/hbosig.stream/playlist.m3u8
+#EXTINF:-1,hbo family
+http://iptvthailand.dyndns.biz/dode/hbofam.stream/playlist.m3u8
+#EXTINF:-1,cenimax
+http://iptvthailand.dyndns.biz/dode/cinemax.stream/playlist.m3u8
+#EXTINF:-1,warnerhd
+http://iptvthailand.dyndns.biz/dode/warnerhd.stream/playlist.m3u8
+#EXTINF:-1,axn
+http://iptvthailand.dyndns.biz/dode/axnhd.stream/chunks.m3u8
+#EXTINF:-1,doonee
+http://iptvthailand.dyndns.biz/dode/doonee.stream/playlist.m3u8
+#EXTINF:-1,fox  movies
+http://iptvthailand.dyndns.biz/dode/foxpremium.stream/playlist.m3u8
+#EXTINF:-1,fox  action movies
+http://iptvthailand.dyndns.biz/dode/foxaction.stream/playlist.m3u8
+#EXTINF:-1,foxthai
+http://iptvthailand.dyndns.biz/dode/foxthai.stream/playlist.m3u8
+#EXTINF:-1,foxcrime
+http://iptvthailand.dyndns.biz/dode/foxcrime.stream/playlist.m3u8
+#EXTINF:-1,fx hd
+http://iptvthailand.dyndns.biz/dode/fxhd.stream/playlist.m3u8
+#EXTINF:-1,foxfamily
+http://iptvthailand.dyndns.biz/dode/foxfamily.stream/playlist.m3u8
+#EXTINF:-1,starworld
+http://iptvthailand.dyndns.biz/dode/starworld.stream/playlist.m3u8
+#EXTINF:-1,fyi
+http://iptvthailand.dyndns.biz/dode/fyi.stream/playlist.m3u8
+#EXTINF:-1,true movie hits
+http://iptvthailand.dyndns.biz/dode/moviehit.stream/playlist.m3u8
+#EXTINF:-1,trueseries
+http://iptvthailand.dyndns.biz/dode/trueseries.stream/playlist.m3u8
+#EXTINF:-1,thai film
+http://iptvthailand.dyndns.biz/dode/thaifilm.stream/playlist.m3u8
+#EXTINF:-1,filmasia
+http://iptvthailand.dyndns.biz/dode/filmasia.stream/playlist.m3u8
+#EXTINF:-1,true lifetime
+http://iptvthailand.dyndns.biz/dode/lifetime.stream/playlist.m3u8
+
+
+#EXTINF:-1,xxxxxxxxxxxxxxxxxxxx
+http://203.162.235.41:17819
+
+
+#EXTINF:-1,tsphd1
+http://iptvthailand.dyndns.biz/dode/tsphd1.stream/playlist.m3u8
+#EXTINF:-1,tsphd2
+http://iptvthailand.dyndns.biz/dode/tsphd2.stream/playlist.m3u8
+#EXTINF:-1,tsphd3
+http://iptvthailand.dyndns.biz/dode/tsphd3.stream/playlist.m3u8
+#EXTINF:-1,tsphd4
+http://iptvthailand.dyndns.biz/dode/tsphd4.stream/playlist.m3u8
+#EXTINF:-1,tsp1
+http://iptvthailand.dyndns.biz/dode/tsp1.stream/playlist.m3u8
+#EXTINF:-1,tsp2
+http://iptvthailand.dyndns.biz/dode/tsp2.stream/playlist.m3u8
+#EXTINF:-1,tsp3
+http://iptvthailand.dyndns.biz/dode/tsp3.stream/playlist.m3u8
+#EXTINF:-1,tsp4
+http://iptvthailand.dyndns.biz/dode/tsp4.stream/playlist.m3u8
+#EXTINF:-1,tsp5
+http://iptvthailand.dyndns.biz/dode/tsp5.stream/playlist.m3u8
+#EXTINF:-1,tsp6
+http://iptvthailand.dyndns.biz/dode/tsp6.stream/playlist.m3u8
+#EXTINF:-1,tsp7
+http://iptvthailand.dyndns.biz/dode/tsp.stream/playlist.m3u8
+#EXTINF:-1,tennishd
+http://iptvthailand.dyndns.biz/dode/tennishd.stream/playlist.m3u8
+#EXTINF:-1,sonysix
+http://iptvthailand.dyndns.biz/dode/sonysix.stream/playlist.m3u8
+#EXTINF:-1,beinsport1
+http://iptvthailand.dyndns.biz/dode/beinsport.stream/playlist.m3u8
+#EXTINF:-1,beinsport2
+http://iptvthailand.dyndns.biz/dode/beinsport2.stream/playlist.m3u8
+#EXTINF:-1,beinsport3
+http://iptvthailand.dyndns.biz/dode/beinsport3.stream/playlist.m3u8
+#EXTINF:-1,beinsport4
+http://iptvthailand.dyndns.biz/dode/beinsport4.stream/playlist.m3u8
+#EXTINF:-1,beinsport5
+http://iptvthailand.dyndns.biz/dode/beinsport5.stream/playlist.m3u8
+#EXTINF:-1,beinsport6
+http://iptvthailand.dyndns.biz/dode/beinsport6.stream/playlist.m3u8
+#EXTINF:-1,skysport1
+http://iptvthailand.dyndns.biz/dode/skysport1.stream/playlist.m3u8
+#EXTINF:-1,skysport2
+http://iptvthailand.dyndns.biz/dode/skysport2.stream/playlist.m3u8
+#EXTINF:-1,skysport3
+http://iptvthailand.dyndns.biz/dode/skysport3.stream/playlist.m3u8
+#EXTINF:-1,skysport4
+http://iptvthailand.dyndns.biz/dode/skysport4.stream/playlist.m3u8
+#EXTINF:-1,skysport5
+http://iptvthailand.dyndns.biz/dode/skysport5.stream/playlist.m3u8
+#EXTINF:-1,skysport6
+http://iptvthailand.dyndns.biz/dode/skysport6.stream/playlist.m3u8
+#EXTINF:-1,fight sport
+http://iptvthailand.dyndns.biz/dode/fightsport.stream/playlist.m3u8
+
+#EXTINF:-1,euronews
+http://iptvthailand.dyndns.biz/dode/euronews.stream/playlist.m3u8
+#EXTINF:-1,foxnews
+http://iptvthailand.dyndns.biz/dode/foxnews.stream/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,xxxxxxxxxxxxxxxxxxxx
+http://203.162.235.41:17819
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,HBO
+http://27.254.154.154:25461/live/thaiflix/aa1234567/1.m3u8
+#EXTINF:-1,CINEMAX
+http://27.254.154.154:25461/live/thaiflix/aa1234567/7.m3u8
+#EXTINF:-1,FOXfamily
+http://27.254.154.154:25461/live/thaiflix/aa1234567/6.m3u8
+#EXTINF:-1,FOXMOVIES
+http://27.254.154.154:25461/live/thaiflix/aa1234567/5.m3u8
+#EXTINF:-1,GolfChannel
+http://27.254.154.154:25461/live/thaiflix/aa1234567/4.m3u8
+#EXTINF:-1,HBOhits
+http://27.254.154.154:25461/live/thaiflix/aa1234567/2.m3u8
+#EXTINF:-1,HBOSignature
+http://27.254.154.154:25461/live/thaiflix/aa1234567/3.m3u8
+#EXTINF:-1,FOX ACTION MOVIES
+http://27.254.154.154:25461/live/thaiflix/aa1234567/12.m3u8
+#EXTINF:-1,FOX NEWS
+http://27.254.154.154:25461/live/thaiflix/aa1234567/11.m3u8
+#EXTINF:-1,NATGEO PEOPLE
+http://27.254.154.154:25461/live/thaiflix/aa1234567/9.m3u8
+#EXTINF:-1,NATGEO WILD HD
+http://27.254.154.154:25461/live/thaiflix/aa1234567/10.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC CHANNEL
+http://27.254.154.154:25461/live/thaiflix/aa1234567/8.m3u8
+
+
+
+#EXTINF:-1,xxxxxxxxxxxxxxxxxxxx
+http://203.162.235.41:17819
+
+
+
+
+#EXTINF:-1,7HD
+http://27.254.154.154:25461/live/thaiflix/aa1234567/13.m3u8
+#EXTINF:-1,8HD
+http://27.254.154.154:25461/live/thaiflix/aa1234567/15.m3u8
+#EXTINF:-1,Amarin HD
+http://27.254.154.154:25461/live/thaiflix/aa1234567/18.m3u8
+#EXTINF:-1,Channel 2 SD
+http://27.254.154.154:25461/live/thaiflix/aa1234567/20.m3u8
+#EXTINF:-1,MCOT HD
+http://27.254.154.154:25461/live/thaiflix/aa1234567/24.m3u8
+#EXTINF:-1,MONO 29
+http://27.254.154.154:25461/live/thaiflix/aa1234567/23.m3u8
+#EXTINF:-1,New TV
+http://27.254.154.154:25461/live/thaiflix/aa1234567/22.m3u8
+#EXTINF:-1,NOW 26
+http://27.254.154.154:25461/live/thaiflix/aa1234567/17.m3u8
+#EXTINF:-1,ONE HD
+http://27.254.154.154:25461/live/thaiflix/aa1234567/14.m3u8
+#EXTINF:-1,Thai PBS HD
+http://27.254.154.154:25461/live/thaiflix/aa1234567/21.m3u8
+#EXTINF:-1,True 4 U
+http://27.254.154.154:25461/live/thaiflix/aa1234567/16.m3u8
+#EXTINF:-1,VOICE TV
+http://27.254.154.154:25461/live/thaiflix/aa1234567/19.m3u8
+#EXTINF:-1,thairath
+http://27.254.154.154:25461/live/thaiflix/aa1234567/25.m3u8
+#EXTINF:-1,3HD
+http://27.254.154.154:25461/live/thaiflix/aa1234567/26.m3u8
+#EXTINF:-1,3 FAMILY
+http://27.254.154.154:25461/live/thaiflix/aa1234567/28.m3u8
+#EXTINF:-1,3SD
+http://27.254.154.154:25461/live/thaiflix/aa1234567/27.m3u8
+#EXTINF:-1,BRIGHT TV
+http://27.254.154.154:25461/live/thaiflix/aa1234567/29.m3u8
+#EXTINF:-1,Channel 5
+http://27.254.154.154:25461/live/thaiflix/aa1234567/37.m3u8
+#EXTINF:-1,MCOT Family
+http://27.254.154.154:25461/live/thaiflix/aa1234567/30.m3u8
+#EXTINF:-1,Nation TV
+http://27.254.154.154:25461/live/thaiflix/aa1234567/31.m3u8
+#EXTINF:-1,NBT
+http://27.254.154.154:25461/live/thaiflix/aa1234567/34.m3u8
+#EXTINF:-1,Workpoint TV
+http://27.254.154.154:25461/live/thaiflix/aa1234567/32.m3u8
+#EXTINF:-1,TNN 24
+http://27.254.154.154:25461/live/thaiflix/aa1234567/33.m3u8
+#EXTINF:-1,SPRING NEWS
+http://27.254.154.154:25461/live/thaiflix/aa1234567/35.m3u8
+#EXTINF:-1,GMM 25
+http://27.254.154.154:25461/live/thaiflix/aa1234567/36.m3u8
+
+
+
+#EXTINF:-1,xxxxxxxxxxxxxxxxxxxx
+http://203.162.235.41:17819
+
+
+
+#EXTINF:-1,AstroSupersport(ui)
+http://27.254.154.154:25461/live/thaiflix/aa1234567/117.m3u8
+#EXTINF:-1,AstroSupersport2(ui)
+http://27.254.154.154:25461/live/thaiflix/aa1234567/118.m3u8
+#EXTINF:-1,AstroSupersport3(ui)
+http://27.254.154.154:25461/live/thaiflix/aa1234567/119.m3u8
+#EXTINF:-1,AstroSupersport4(ui)
+http://27.254.154.154:25461/live/thaiflix/aa1234567/120.m3u8
+#EXTINF:-1,PPTV(ui)
+http://27.254.154.154:25461/live/thaiflix/aa1234567/121.m3u8
+#EXTINF:-1,SkyNetSports1(ui)
+http://27.254.154.154:25461/live/thaiflix/aa1234567/111.m3u8
+#EXTINF:-1,SkyNetSports2(ui)
+http://27.254.154.154:25461/live/thaiflix/aa1234567/112.m3u8
+#EXTINF:-1,SkyNetSports3(ui)
+http://27.254.154.154:25461/live/thaiflix/aa1234567/113.m3u8
+#EXTINF:-1,SkyNetSports4(ui)
+http://27.254.154.154:25461/live/thaiflix/aa1234567/114.m3u8
+#EXTINF:-1,SkyNetSports5(ui)
+http://27.254.154.154:25461/live/thaiflix/aa1234567/115.m3u8
+#EXTINF:-1,SkyNetSports6(ui)
+http://27.254.154.154:25461/live/thaiflix/aa1234567/116.m3u8
+
+
+
+#EXTINF:-1,xxxxxxxxxxxxxxxxxxxx
+http://203.162.235.41:17819
+
+
+
+
+#EXTINF:-1,TSN1
+http://185.73.239.38:25461/live/thflix/Aa444444/82.m3u8
+#EXTINF:-1,BTSport1
+http://185.73.239.38:25461/live/thflix/Aa444444/87.m3u8
+#EXTINF:-1,ESPN1
+http://185.73.239.38:25461/live/thflix/Aa444444/89.m3u8
+#EXTINF:-1,ESPN2
+http://185.73.239.38:25461/live/thflix/Aa444444/90.m3u8
+#EXTINF:-1,NBA
+http://185.73.239.38:25461/live/thflix/Aa444444/91.m3u8
+#EXTINF:-1,SkySport1
+http://185.73.239.38:25461/live/thflix/Aa444444/92.m3u8
+#EXTINF:-1,SkySport3
+http://185.73.239.38:25461/live/thflix/Aa444444/94.m3u8
+#EXTINF:-1,SkySport4
+http://185.73.239.38:25461/live/thflix/Aa444444/95.m3u8
+#EXTINF:-1,SkySport5
+http://185.73.239.38:25461/live/thflix/Aa444444/96.m3u8
+#EXTINF:-1,TSN2
+http://185.73.239.38:25461/live/thflix/Aa444444/83.m3u8
+#EXTINF:-1,TSN3
+http://185.73.239.38:25461/live/thflix/Aa444444/84.m3u8
+#EXTINF:-1,ad Sports 1
+http://185.73.239.38:25461/live/thflix/Aa444444/121.m3u8
+#EXTINF:-1,ad Sports 2
+http://185.73.239.38:25461/live/thflix/Aa444444/122.m3u8
+#EXTINF:-1,FOX2
+http://185.73.239.38:25461/live/thflix/Aa444444/130.m3u8
+#EXTINF:-1,FOXHD
+http://185.73.239.38:25461/live/thflix/Aa444444/129.m3u8
+#EXTINF:-1,TSN4
+http://185.73.239.38:25461/live/thflix/Aa444444/127.m3u8
+#EXTINF:-1,TSN5
+http://185.73.239.38:25461/live/thflix/Aa444444/128.m3u8
+#EXTINF:-1,BTSport2
+http://185.73.239.38:25461/live/thflix/Aa444444/88.m3u8
+
+
+
+
+#EXTINF:-1,xxxxxxxxxxxxxxxxxxxx
+http://203.162.235.41:17819
+
+
+
+#EXTINF:-1,MONO Plus
+http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/83.m3u8
+#EXTINF:-1,Super-Entertainment
+http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/82.m3u8
+#EXTINF:-1,Topline TV
+http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/81.m3u8
+#EXTINF:-1,Fahwonmai
+http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/79.m3u8
+#EXTINF:-1,BBC-ONE
+http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/78.m3u8
+#EXTINF:-1,BBC-Two
+http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/76.m3u8
+#EXTINF:-1,ITV-One
+http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/75.m3u8
+#EXTINF:-1,BBC World NEWS
+http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/72.m3u8
+#EXTINF:-1,Suwannabhumi-Channel
+http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/71.m3u8
+#EXTINF:-1,Gang-Cartoon
+http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/69.m3u8
+#EXTINF:-1,SabaideeTV
+http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/68.m3u8
+#EXTINF:-1,You Channel
+http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/67.m3u8
+#EXTINF:-1,Money Channel
+http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/66.m3u8
+#EXTINF:-1,Boomerang
+http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/89.m3u8
+#EXTINF:-1,Ja Ting Ja
+http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/91.m3u8
+#EXTINF:-1,JKN
+http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/94.m3u8
+#EXTINF:-1,CTB
+http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/95.m3u8
+#EXTINF:-1,M Channel
+http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/93.m3u8
+#EXTINF:-1,Kaset-News
+http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/88.m3u8
+#EXTINF:-1,Channel8
+http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/84.m3u8
+#EXTINF:-1,Miracle Channel
+http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/85.m3u8
+#EXTINF:-1,NBTV
+http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/86.m3u8
+#EXTINF:-1,Mongkol Channel.
+http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/92.m3u8
+
+
+
+
+#EXTINF:-1,xxxxxxxxxxxxxxxxxxxx
+http://203.162.235.41:17819
+
+
+
+
+
+#EXTINF:-1,SportTV
+http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/97.m3u8
+#EXTINF:-1,Beintrue1
+http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/48.m3u8
+#EXTINF:-1,BeinTrue2
+http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/49.m3u8
+#EXTINF:-1,BeinTrue3
+http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/50.m3u8
+#EXTINF:-1,BeinTrue4
+http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/51.m3u8
+#EXTINF:-1,sportv
+http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/128.m3u8
+#EXTINF:-1,FOXHD
+http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/54.m3u8
+
+
+
+
+#EXTINF:-1,xxxxxxxxxxxxxxxxxxxx
+http://203.162.235.41:17819
+
+
+
+#EXTINF:-1,H history
+http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/130.m3u8
+#EXTINF:-1,H2 history
+http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/131.m3u8
+#EXTINF:-1,PFC
+http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/129.m3u8
+#EXTINF:-1,Discovery
+http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/125.m3u8
+
+
+
+
+#EXTINF:-1,xxxxxxxxxxxxxxxxxxxx
+http://203.162.235.41:17819
+
+
+
+#EXTINF:-1,futbol2
+http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/132.m3u8
+#EXTINF:-1,SportTV4
+http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/133.m3u8
+#EXTINF:-1,SportTV1
+http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/136.m3u8
+#EXTINF:-1,SportTV2
+http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/137.m3u8
+#EXTINF:-1,SportTV3
+http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/134.m3u8
+#EXTINF:-1,sporttv5
+http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/135.m3u8
+#EXTINF:-1,OLYMPIC CHANNEL
+http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/139.m3u8
+#EXTINF:-1,dolcesp1
+http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/138.m3u8
+#EXTINF:-1,TBS
+http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/156.m3u8
+#EXTINF:-1,NHK general
+http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/157.m3u8
+#EXTINF:-1,tv-asahi
+http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/155.m3u8
+#EXTINF:-1,QVC Shopping
+http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/154.m3u8
+#EXTINF:-1,Shop Channel
+http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/153.m3u8
+#EXTINF:-1,NipponTV
+http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/152.m3u8
+#EXTINF:-1,NHK E
+http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/151.m3u8
+#EXTINF:-1,NHK World (English)
+http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/150.m3u8
+#EXTINF:-1,tv-tokyo
+http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/149.m3u8
+#EXTINF:-1,Fuji TV
+http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/98.m3u8
+#EXTINF:-1,C3Tv
+http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/147.m3u8
+#EXTINF:-1,Kctv
+http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/146.m3u8
+#EXTINF:-1,Gtb-G1-Chuncheon
+http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/145.m3u8
+#EXTINF:-1,Tv Chosun
+http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/144.m3u8
+#EXTINF:-1,TRUE SPARK JUMP
+http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/38.m3u8
 
 
 
