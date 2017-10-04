@@ -1477,33 +1477,37 @@ http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/38.m3u8
 
 
 #EXTINF:-1,samrujlok
-http://footballmetro.myftp.org:1935/live2/0x777_samrujlok_720p/chunklist.m3u8
+http://191.96.38.41:19362/sportgames88/0x777_samrujlok_720p/chunklist.m3u8
 #EXTINF:-1,H2
-http://rjutoung.myvnc.com:1935/ballsod365-2/0x777_h2hd_720p/chunklist.m3u8
+http://191.96.38.41:19362/sportgames88/0x777_h2hd_720p/chunklist.m3u8
 #EXTINF:-1,AXN
-http://footballmetro.myftp.org:1935/live2/0x777_axnhd_720p/chunklist.m3u8
+http://191.96.38.41:19362/sportgames88/0x777_axnhd_720p/chunklist.m3u8
 #EXTINF:-1,Discovery Channel
-http://rjutoung.myvnc.com:1935/ballsod365-2/00_dischannel_480p/chunklist.m3u8
+http://191.96.38.41:19362/sportgames88/00_dischannel_480p/chunklist.m3u8
 #EXTINF:-1,Discovery Science
-http://footballmetro.myftp.org:1935/live2/0x777_dissci_720p/chunklist.m3u8
+http://191.96.38.41:19362/sportgames88/0x777_dissci_720p/chunklist.m3u8
 #EXTINF:-1,Discovery Asia
-http://footballmetro.myftp.org:1935/live2/0x777_discoveryworldhd_720p/chunklist.m3u8
+http://191.96.38.41:19362/sportgames88/0x777_discoveryworldhd_720p/chunklist.m3u8
 #EXTINF:-1,National Geo Wild
-http://rjutoung.myvnc.com:1935/ballsod365-3/0x222_natgeowild_720p/chunklist.m3u8
+http://191.96.38.41:19362/sportgames88/0x222_natgeowild_720p/chunklist.m3u8
 #EXTINF:-1,National Geographic
-http://rjutoung.myvnc.com:1935/ballsod365-3/0x222_natgeographic_720p/chunklist.m3u8
+http://191.96.38.41:19362/sportgames88/0x222_natgeographic_720p/chunklist.m3u8
 #EXTINF:-1,National Geo People
-http://footballmetro.myftp.org:1935/live3/0x222_natgeopeople_720p/chunklist.m3u8
+http://191.96.38.41:19362/sportgames88/0x222_natgeopeople_720p/chunklist.m3u8
 #EXTINF:-1,Animal Planet
-http://rjutoung.myvnc.com:1935/ballsod365-2/0x777_animalplanet_720p/chunklist.m3u8
+http://191.96.38.41:19362/sportgames88/0x777_animalplanet_720p/chunklist.m3u8
 #EXTINF:-1,mysci 
-http://rjutoung.myvnc.com:1935/ballsod365-2/0x222_mysci_720p/chunklist.m3u8
+http://191.96.38.41:19362/sportgames88/0x222_mysci_720p/chunklist.m3u8
 #EXTINF:-1,BBC Life Style
-http://footballmetro.myftp.org:1935/live2/0x222_lifestylehd_720p/chunklist.m3u8
-#EXTINF:-1,FYI
-http://footballmetro.myftp.org:1935/live3/0x222_fyihdthai_720p/chunklist.m3u8
-#EXTINF:-1,HISTORY
-http://rjutoung.myvnc.com:1935/ballsod365-2/0x777_historyhd_720p/chunklist.m3u8
+http://191.96.38.41:19362/sportgames88/0x222_lifestylehd_720p/chunklist.m3u8
+#EXTINF:-1,eve
+http://191.96.38.41:19362/sportgames88/0x222_evehd_720p/chunklist.m3u8
+#EXTINF:-1,true explore_1
+http://191.96.38.41:19362/sportgames88/00_exp1_480p/chunklist.m3u8
+#EXTINF:-1,true explore_2
+http://191.96.38.41:19362/sportgames88/00_exp2_480p/chunklist.m3u8
+#EXTINF:-1,true explore_3
+http://191.96.38.41:19362/sportgames88/00_exp3_480p/chunklist.m3u8
 
 
 
@@ -1516,7 +1520,8 @@ http://rjutoung.myvnc.com:1935/ballsod365-2/0x777_historyhd_720p/chunklist.m3u8
 
 
 
-#EXTINF:-1,UPMOVIE
+
+#EXTINF:-1,4Kmovie
 http://27.131.166.195:1935/live/_definst_/upmovie.stream/playlist.m3u8?username=test&password=asdfasdfasdf
 #EXTINF:-1,MOVIE1
 http://27.131.166.195:1935/live/_definst_/movie1.stream/playlist.m3u8?username=test&password=asdfasdfasdf
@@ -1525,35 +1530,43 @@ http://27.131.166.195:1935/live/_definst_/movie2.stream/playlist.m3u8?username=t
 #EXTINF:-1,MOVIE3
 http://27.131.166.195:1935/live/_definst_/movie3.stream/playlist.m3u8?username=test&password=asdfasdfasdf
 #EXTINF:-1,HBO Signature 
-http://rjutoung.myvnc.com:1935/ballsod365-4/0x222_ais_hbosignature_720p/chunklist.m3u8
+http://191.96.38.41:19362/sportgames88/0x222_ais_hbosignature_720p/chunklist.m3u8
 #EXTINF:-1,HBO HD
 http://www.playontube.com:1935/cinema/HBO.stream/playlist.m3u8
 #EXTINF:-1,HBO Family
-http://rjutoung.myvnc.com:1935/ballsod365-4/0x222_ais_hbofam_720p/chunklist.m3u8
+http://191.96.38.41:19362/sportgames88/0x222_ais_hbofam_720p/chunklist.m3u8
 #EXTINF:-1,HBO Hits
 http://www.playontube.com:1935/cinema/HBOhits.stream/chunklist.m3u8
 #EXTINF:-1,HISTORY
-http://rjutoung.myvnc.com:1935/ballsod365-2/0x777_historyhd_720p/chunklist.m3u8
+http://191.96.38.41:19362/sportgames88/0x777_historyhd_720p/chunklist.m3u8
 #EXTINF:-1,Cinemax
 http://www.playontube.com:1935/cinema/CINEMAX.stream/playlist.m3u8
 #EXTINF:-1,Fox Fa MovHD 
-http://rjutoung.myvnc.com:1935/ballsod365-4/0x222_ais_foxfamth_720p/chunklist.m3u8
+http://191.96.38.41:19362/sportgames88/0x222_ais_foxfamen_720p/chunklist.m3u8
 #EXTINF:-1,Fox Ac Mov HD
-http://rjutoung.myvnc.com:1935/ballsod365-4/0x222_foxactionmovieth_720p/chunklist.m3u8
+http://191.96.38.41:19362/sportgames88/0x222_foxactionmovieth_720p/chunklist.m3u8
 #EXTINF:-1,Fox Mov Pre HD 
-http://footballmetro.myftp.org:1935/live4/0x222_ais_foxpremiumth_720p/chunklist.m3u8
+http://191.96.38.41:19362/sportgames88/0x222_ais_foxpremiumth_720p/chunklist.m3u8
 #EXTINF:-1,Fox Crime
-http://rjutoung.myvnc.com:1935/ballsod365-3/0x222_foxcrimehdthai_720p/chunklist.m3u8
+http://191.96.38.41:19362/sportgames88/0x222_foxcrimehdthai_720p/chunklist.m3u8
 #EXTINF:-1,FX
-http://footballmetro.myftp.org:1935/live3/0x222_fxthailand_720p/chunklist.m3u8  
+http://191.96.38.41:19362/sportgames88/0x222_fxthailand_720p/chunklist.m3u8
 #EXTINF:-1,FOX Thai
-http://footballmetro.myftp.org:1935/live1/00_foxthai_480p/chunklist.m3u8
+http://191.96.38.41:19362/sportgames88/00_foxthai_480p/chunklist.m3u8
 #EXTINF:-1,Starworld
-http://footballmetro.myftp.org:1935/live3/0x222_starworldhdthai_720p/chunklist.m3u8
+http://191.96.38.41:19362/sportgames88/0x222_starworldhdthai_720p/chunklist.m3u8
 #EXTINF:-1,Warner TV
-http://footballmetro.myftp.org:1935/live3/0x777_warnertv_720p/chunklist.m3u8
+http://191.96.38.41:19362/sportgames88/0x777_warnertv_720p/chunklist.m3u8
 #EXTINF:-1,Doonee HD
-http://footballmetro.myftp.org:1935/live4/0x222_ais_doonee_720p/chunklist.m3u8
+http://191.96.38.41:19362/sportgames88/0x222_ais_doonee_720p/chunklist.m3u8
+#EXTINF:-1,RED by HBO
+http://191.96.38.41:19362/sportgames88/0x222_ais_redbyhbo_720p/chunklist.m3u8
+#EXTINF:-1,thrill
+http://191.96.38.41:19362/sportgames88/0x222_thrill_720p/chunklist.m3u8
+#EXTINF:-1,true MovieHits
+http://191.96.38.41:19362/sportgames88/00_moviehits_480p/chunklist.m3u8
+#EXTINF:-1,true ThaiFilm
+http://191.96.38.41:19362/sportgames88/00_2thaifilm_480p/chunklist.m3u8
 
 
 
