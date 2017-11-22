@@ -25,21 +25,21 @@ player=default
 rating=-1.00
 
 type=playlist
-name=
+name=Anyone want to put streaming links here, leave comments in...
 thumb=
 URL=
 player=default
 rating=-1.00
 
 type=playlist
-name=
+name=...Thai4Free_Free2Thais...
 thumb=
 URL=
 player=default
 rating=-1.00
 
 type=script
-name=
+name=...https://www.reddit.com/r/FullMoviesOnline/
 thumb=
 URL=
 player=default
